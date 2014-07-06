@@ -18,6 +18,5 @@
   "homepage": "https://github.com/todd9527/Website",
   "dependencies": {
     "express": "^4.5.0",
-    //"logfmt": "^1.1.2"
   }
 }
